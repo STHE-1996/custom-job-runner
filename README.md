@@ -110,4 +110,4 @@ return [
 
 ## Logs Image :
 
-![Cool Cat](images/Screenshot%202025-04-14%20174228.png)
+![Cool Cat](images/Screenshot%202025-04-14%20233308.png)
