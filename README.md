@@ -70,9 +70,15 @@ You should see this image:
 ![Cool Cat](images/Screenshot%202025-04-14%20171940.png)
 
 To run the `run-job.php` script from the command line:
-```bash
+
 php run-job.php App\\Jobs\\TestJob run "This async !"
 
+![Cool Cat](images/"Screenshot 2025-04-14 233308.png")
+
+To run the `run-job.php` script from the command line:
+```bash
+
+php run-job.php App\\Jobs\\TestJob run "This async !"
 
 # 🛠️ Background Job Dispatcher – `runBackgroundJob()`
 
@@ -106,8 +112,3 @@ return [
     // Delay between retries in seconds
     'retry_delay' => 5,
 ];
-
-
-## Logs Image :
-
-![Cool Cat](images/"Screenshot 2025-04-14 233308.png")
